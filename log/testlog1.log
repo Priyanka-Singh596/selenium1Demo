@@ -1,0 +1,186 @@
+2022-02-23 07:51:09,372 [main] INFO selenium1Demo - user name provided
+2022-02-23 07:51:09,477 [main] INFO selenium1Demo - password provided
+2022-02-23 07:51:11,890 [main] INFO selenium1Demo - submit button is clicked
+2022-02-23 07:51:14,926 [main] INFO selenium1Demo - Login passed
+2022-02-23 07:51:23,533 [main] INFO selenium1Demo - user name provided
+2022-02-23 07:51:23,692 [main] INFO selenium1Demo - password provided
+2022-02-23 07:51:24,184 [main] INFO selenium1Demo - submit button is clicked
+2022-02-23 07:51:28,365 [main] INFO selenium1Demo - user name provided
+2022-02-23 07:51:28,586 [main] INFO selenium1Demo - password provided
+2022-02-23 07:51:29,852 [main] INFO selenium1Demo - submit button is clicked
+2022-02-23 07:51:32,864 [main] INFO selenium1Demo - Login passed
+2022-02-23 07:51:38,503 [main] INFO selenium1Demo - user name provided
+2022-02-23 07:51:38,718 [main] INFO selenium1Demo - password provided
+2022-02-23 07:51:39,166 [main] INFO selenium1Demo - submit button is clicked
+2022-02-23 07:51:44,113 [main] INFO selenium1Demo - user name provided
+2022-02-23 07:51:44,233 [main] INFO selenium1Demo - password provided
+2022-02-23 07:51:44,689 [main] INFO selenium1Demo - submit button is clicked
+2022-02-23 07:53:41,622 [main] INFO selenium1Demo - user name provided
+2022-02-23 07:53:41,730 [main] INFO selenium1Demo - password provided
+2022-02-23 07:53:43,646 [main] INFO selenium1Demo - submit button is clicked
+2022-02-23 07:53:46,682 [main] INFO selenium1Demo - Login passed
+2022-02-23 07:53:52,431 [main] INFO selenium1Demo - user name provided
+2022-02-23 07:53:52,481 [main] INFO selenium1Demo - password provided
+2022-02-23 07:53:53,028 [main] INFO selenium1Demo - submit button is clicked
+2022-02-23 07:53:58,197 [main] INFO selenium1Demo - user name provided
+2022-02-23 07:53:58,396 [main] INFO selenium1Demo - password provided
+2022-02-23 07:53:59,612 [main] INFO selenium1Demo - submit button is clicked
+2022-02-23 07:54:02,624 [main] INFO selenium1Demo - Login passed
+2022-02-23 07:54:08,987 [main] INFO selenium1Demo - user name provided
+2022-02-23 07:54:09,096 [main] INFO selenium1Demo - password provided
+2022-02-23 07:54:09,526 [main] INFO selenium1Demo - submit button is clicked
+2022-02-23 07:54:13,651 [main] INFO selenium1Demo - user name provided
+2022-02-23 07:54:13,806 [main] INFO selenium1Demo - password provided
+2022-02-23 07:54:14,238 [main] INFO selenium1Demo - submit button is clicked
+2022-02-23 07:56:44,021 [main] INFO selenium1Demo - user name provided
+2022-02-23 07:56:44,137 [main] INFO selenium1Demo - password provided
+2022-02-23 07:56:46,046 [main] INFO selenium1Demo - submit button is clicked
+2022-02-23 07:56:49,070 [main] INFO selenium1Demo - Login passed
+2022-02-23 07:56:55,707 [main] INFO selenium1Demo - user name provided
+2022-02-23 07:56:55,827 [main] INFO selenium1Demo - password provided
+2022-02-23 07:56:56,295 [main] INFO selenium1Demo - submit button is clicked
+2022-02-23 07:57:01,196 [main] INFO selenium1Demo - user name provided
+2022-02-23 07:57:01,321 [main] INFO selenium1Demo - password provided
+2022-02-23 07:57:02,581 [main] INFO selenium1Demo - submit button is clicked
+2022-02-23 07:57:05,607 [main] INFO selenium1Demo - Login passed
+2022-02-23 07:57:11,597 [main] INFO selenium1Demo - user name provided
+2022-02-23 07:57:11,752 [main] INFO selenium1Demo - password provided
+2022-02-23 07:57:12,200 [main] INFO selenium1Demo - submit button is clicked
+2022-02-23 07:57:16,374 [main] INFO selenium1Demo - user name provided
+2022-02-23 07:57:16,535 [main] INFO selenium1Demo - password provided
+2022-02-23 07:57:16,976 [main] INFO selenium1Demo - submit button is clicked
+2022-02-23 08:25:39,419 [main] INFO selenium1Demo - user name provided
+2022-02-23 08:25:39,508 [main] INFO selenium1Demo - password provided
+2022-02-23 08:25:40,859 [main] INFO selenium1Demo - submit button is clicked
+2022-02-23 08:25:43,884 [main] INFO selenium1Demo - Login passed
+2022-02-23 08:25:49,610 [main] INFO selenium1Demo - user name provided
+2022-02-23 08:25:49,665 [main] INFO selenium1Demo - password provided
+2022-02-23 08:25:50,233 [main] INFO selenium1Demo - submit button is clicked
+2022-02-23 08:25:55,167 [main] INFO selenium1Demo - user name provided
+2022-02-23 08:25:55,223 [main] INFO selenium1Demo - password provided
+2022-02-23 08:25:56,571 [main] INFO selenium1Demo - submit button is clicked
+2022-02-23 08:25:59,592 [main] INFO selenium1Demo - Login passed
+2022-02-23 08:26:05,224 [main] INFO selenium1Demo - user name provided
+2022-02-23 08:26:05,370 [main] INFO selenium1Demo - password provided
+2022-02-23 08:26:05,806 [main] INFO selenium1Demo - submit button is clicked
+2022-02-23 08:26:10,308 [main] INFO selenium1Demo - user name provided
+2022-02-23 08:26:10,504 [main] INFO selenium1Demo - password provided
+2022-02-23 08:26:10,949 [main] INFO selenium1Demo - submit button is clicked
+2022-02-23 08:26:22,104 [main] INFO selenium1Demo - URL is opened
+2022-02-23 08:26:22,252 [main] INFO selenium1Demo - Entered username
+2022-02-23 08:26:22,316 [main] INFO selenium1Demo - Entered password
+2022-02-23 08:26:22,778 [main] INFO selenium1Demo - click on submit button submit
+2022-02-24 11:46:49,314 [main] INFO selenium1Demo - URL is opened
+2022-02-24 11:46:49,554 [main] INFO selenium1Demo - Entered username
+2022-02-24 11:46:49,739 [main] INFO selenium1Demo - Entered password
+2022-02-24 11:46:50,208 [main] INFO selenium1Demo - click on submit button submit
+2022-02-24 12:43:01,226 [main] INFO selenium1Demo - user name provided
+2022-02-24 12:43:01,468 [main] INFO selenium1Demo - password provided
+2022-02-24 12:43:03,021 [main] INFO selenium1Demo - submit button is clicked
+2022-02-24 12:43:06,106 [main] INFO selenium1Demo - Login passed
+2022-02-24 12:43:11,014 [main] INFO selenium1Demo - user name provided
+2022-02-24 12:43:11,187 [main] INFO selenium1Demo - password provided
+2022-02-24 12:43:11,571 [main] INFO selenium1Demo - submit button is clicked
+2022-02-24 12:43:15,800 [main] INFO selenium1Demo - user name provided
+2022-02-24 12:43:15,928 [main] INFO selenium1Demo - password provided
+2022-02-24 12:43:16,867 [main] INFO selenium1Demo - submit button is clicked
+2022-02-24 12:43:19,886 [main] INFO selenium1Demo - Login passed
+2022-02-24 12:43:24,810 [main] INFO selenium1Demo - user name provided
+2022-02-24 12:43:25,051 [main] INFO selenium1Demo - password provided
+2022-02-24 12:43:25,320 [main] INFO selenium1Demo - submit button is clicked
+2022-02-24 12:43:29,596 [main] INFO selenium1Demo - user name provided
+2022-02-24 12:43:29,730 [main] INFO selenium1Demo - password provided
+2022-02-24 12:43:30,050 [main] INFO selenium1Demo - submit button is clicked
+2022-02-25 14:36:07,072 [main] INFO selenium1Demo - user name provided
+2022-02-25 14:36:07,304 [main] INFO selenium1Demo - password provided
+2022-02-25 14:36:08,942 [main] INFO selenium1Demo - submit button is clicked
+2022-02-25 14:36:12,011 [main] INFO selenium1Demo - Login passed
+2022-02-25 14:36:17,119 [main] INFO selenium1Demo - user name provided
+2022-02-25 14:36:17,384 [main] INFO selenium1Demo - password provided
+2022-02-25 14:36:17,683 [main] INFO selenium1Demo - submit button is clicked
+2022-02-25 14:36:21,970 [main] INFO selenium1Demo - user name provided
+2022-02-25 14:36:22,114 [main] INFO selenium1Demo - password provided
+2022-02-25 14:36:23,233 [main] INFO selenium1Demo - submit button is clicked
+2022-02-25 14:36:26,270 [main] INFO selenium1Demo - Login passed
+2022-02-25 14:36:31,141 [main] INFO selenium1Demo - user name provided
+2022-02-25 14:36:31,256 [main] INFO selenium1Demo - password provided
+2022-02-25 14:36:31,605 [main] INFO selenium1Demo - submit button is clicked
+2022-02-25 14:36:35,970 [main] INFO selenium1Demo - user name provided
+2022-02-25 14:36:36,107 [main] INFO selenium1Demo - password provided
+2022-02-25 14:36:36,365 [main] INFO selenium1Demo - submit button is clicked
+2022-02-25 14:36:45,228 [main] INFO selenium1Demo - URL is opened
+2022-02-25 14:36:45,490 [main] INFO selenium1Demo - Entered username
+2022-02-25 14:36:45,997 [main] INFO selenium1Demo - Entered password
+2022-02-25 14:36:46,256 [main] INFO selenium1Demo - click on submit button submit
+2022-02-25 14:57:15,552 [main] INFO selenium1Demo - user name provided
+2022-02-25 14:57:15,788 [main] INFO selenium1Demo - password provided
+2022-02-25 14:57:17,677 [main] INFO selenium1Demo - submit button is clicked
+2022-02-25 14:57:20,735 [main] INFO selenium1Demo - Login passed
+2022-02-25 14:57:25,347 [main] INFO selenium1Demo - user name provided
+2022-02-25 14:57:25,469 [main] INFO selenium1Demo - password provided
+2022-02-25 14:57:26,254 [main] INFO selenium1Demo - submit button is clicked
+2022-02-25 14:57:29,265 [main] INFO selenium1Demo - Login passed
+2022-02-25 14:57:33,824 [main] INFO selenium1Demo - user name provided
+2022-02-25 14:57:33,953 [main] INFO selenium1Demo - password provided
+2022-02-25 14:57:34,906 [main] INFO selenium1Demo - submit button is clicked
+2022-02-25 14:57:37,926 [main] INFO selenium1Demo - Login passed
+2022-02-25 14:57:42,620 [main] INFO selenium1Demo - user name provided
+2022-02-25 14:57:42,731 [main] INFO selenium1Demo - password provided
+2022-02-25 14:57:43,498 [main] INFO selenium1Demo - submit button is clicked
+2022-02-25 14:57:46,531 [main] INFO selenium1Demo - Login passed
+2022-02-25 14:57:51,066 [main] INFO selenium1Demo - user name provided
+2022-02-25 14:57:51,177 [main] INFO selenium1Demo - password provided
+2022-02-25 14:57:51,953 [main] INFO selenium1Demo - submit button is clicked
+2022-02-25 14:57:54,975 [main] INFO selenium1Demo - Login passed
+2022-02-25 14:58:03,613 [main] INFO selenium1Demo - URL is opened
+2022-02-25 14:58:03,742 [main] INFO selenium1Demo - Entered username
+2022-02-25 14:58:03,977 [main] INFO selenium1Demo - Entered password
+2022-02-25 14:58:04,218 [main] INFO selenium1Demo - click on submit button submit
+2022-02-25 15:08:28,101 [main] INFO selenium1Demo - user name provided
+2022-02-25 15:08:28,261 [main] INFO selenium1Demo - password provided
+2022-02-25 15:08:29,223 [main] INFO selenium1Demo - submit button is clicked
+2022-02-25 15:08:32,255 [main] INFO selenium1Demo - Login passed
+2022-02-25 15:08:36,907 [main] INFO selenium1Demo - user name provided
+2022-02-25 15:08:37,019 [main] INFO selenium1Demo - password provided
+2022-02-25 15:08:37,970 [main] INFO selenium1Demo - submit button is clicked
+2022-02-25 15:08:40,993 [main] INFO selenium1Demo - Login passed
+2022-02-25 15:08:45,283 [main] INFO selenium1Demo - user name provided
+2022-02-25 15:08:45,547 [main] INFO selenium1Demo - password provided
+2022-02-25 15:08:46,439 [main] INFO selenium1Demo - submit button is clicked
+2022-02-25 15:08:49,460 [main] INFO selenium1Demo - Login passed
+2022-02-25 15:08:53,977 [main] INFO selenium1Demo - user name provided
+2022-02-25 15:08:54,081 [main] INFO selenium1Demo - password provided
+2022-02-25 15:08:54,886 [main] INFO selenium1Demo - submit button is clicked
+2022-02-25 15:08:57,910 [main] INFO selenium1Demo - Login passed
+2022-02-25 15:09:02,270 [main] INFO selenium1Demo - user name provided
+2022-02-25 15:09:02,371 [main] INFO selenium1Demo - password provided
+2022-02-25 15:09:03,185 [main] INFO selenium1Demo - submit button is clicked
+2022-02-25 15:09:06,208 [main] INFO selenium1Demo - Login passed
+2022-02-25 15:09:14,635 [main] INFO selenium1Demo - URL is opened
+2022-02-25 15:09:14,774 [main] INFO selenium1Demo - Entered username
+2022-02-25 15:09:14,905 [main] INFO selenium1Demo - Entered password
+2022-02-25 15:09:15,169 [main] INFO selenium1Demo - click on submit button submit
+2022-02-25 15:16:38,003 [main] INFO selenium1Demo - user name provided
+2022-02-25 15:16:38,174 [main] INFO selenium1Demo - password provided
+2022-02-25 15:16:39,241 [main] INFO selenium1Demo - submit button is clicked
+2022-02-25 15:16:42,288 [main] INFO selenium1Demo - Login passed
+2022-02-25 15:16:46,795 [main] INFO selenium1Demo - user name provided
+2022-02-25 15:16:47,065 [main] INFO selenium1Demo - password provided
+2022-02-25 15:16:48,172 [main] INFO selenium1Demo - submit button is clicked
+2022-02-25 15:16:51,194 [main] INFO selenium1Demo - Login passed
+2022-02-25 15:16:55,700 [main] INFO selenium1Demo - user name provided
+2022-02-25 15:16:55,798 [main] INFO selenium1Demo - password provided
+2022-02-25 15:16:56,586 [main] INFO selenium1Demo - submit button is clicked
+2022-02-25 15:16:59,609 [main] INFO selenium1Demo - Login passed
+2022-02-25 15:17:04,170 [main] INFO selenium1Demo - user name provided
+2022-02-25 15:17:04,277 [main] INFO selenium1Demo - password provided
+2022-02-25 15:17:05,287 [main] INFO selenium1Demo - submit button is clicked
+2022-02-25 15:17:08,312 [main] INFO selenium1Demo - Login passed
+2022-02-25 15:17:12,996 [main] INFO selenium1Demo - user name provided
+2022-02-25 15:17:13,101 [main] INFO selenium1Demo - password provided
+2022-02-25 15:17:13,966 [main] INFO selenium1Demo - submit button is clicked
+2022-02-25 15:17:16,999 [main] INFO selenium1Demo - Login passed
+2022-02-25 15:17:27,774 [main] INFO selenium1Demo - URL is opened
+2022-02-25 15:17:27,927 [main] INFO selenium1Demo - Entered username
+2022-02-25 15:17:28,048 [main] INFO selenium1Demo - Entered password
+2022-02-25 15:17:28,496 [main] INFO selenium1Demo - click on submit button submit
