@@ -1,5 +1,8 @@
 package com.selenium1Demo.testCases;
 
+import java.io.IOException;
+
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import com.selenium1Demo.pageObjects.AddCustommer;
@@ -9,7 +12,7 @@ public class TC_AddCustommer_03 extends BaseClass {
 	
 	@Test
 	
-	public void addNewCustomerTest() throws InterruptedException
+	public void addNewCustomerTest() throws InterruptedException, IOException
 	{
 		LoginPage lp = new LoginPage(driver);
 		lp.setUserName(username);
@@ -28,19 +31,46 @@ public class TC_AddCustommer_03 extends BaseClass {
 		ac.clickNewCustomer();
 		logger.info("providing customer details.... ");
 		
-		ac.setCustomerName("Priyanka");
+		ac.setCustomerName("Vani");
 		//ac.setGenderMale();
 		ac.setGenderFemale();
-		ac.setDateOfBirth("02","23","1990");		
-		ac.setAddress("20 Street,Qunicy Market");		
+		ac.setDateOfBirth("07","20","1999");		
+		ac.setAddress("20 kessler farm");		
 		ac.setCity("Boston");
 		ac.setState("Mass");
 		ac.setPin("123456");
 		ac.setMobileNumber("846832635");
-		ac.setMailId("priy23@yahoo.com");
-		ac.setPassword("priyanka123");
+		ac.setMailId("sdgshds@yahoo.com");
+		ac.setPassword("priya123");
 		ac.clickSubmit();
-		ac.clickReset();
+		//ac.clickReset();
+		
+Thread.sleep(3000);
+		
+		logger.info("validation started...");
+		
+		boolean taskcompleted = driver.getPageSource().contains("Customer Registered Successfully!!!");
+		
+		if(taskcompleted == true) {
+			
+			Assert.assertTrue(true);
+			logger.info("test case passed");
+			
+		}
+		
+		else
+		{
+			logger.info("test case failed..!!");
+			captureScreen(driver,"addNewCustomer");
+			Assert.assertTrue(false);
+			
+		}
+		
+		
+		
+	}
+
+
 		
 		
 		
@@ -50,5 +80,3 @@ public class TC_AddCustommer_03 extends BaseClass {
 	}
 	
 	
-
-}

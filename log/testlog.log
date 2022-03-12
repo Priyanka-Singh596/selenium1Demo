@@ -184,3 +184,72 @@
 2022-02-25 15:17:27,927 - selenium1Demo -INFO - Entered username
 2022-02-25 15:17:28,048 - selenium1Demo -INFO - Entered password
 2022-02-25 15:17:28,496 - selenium1Demo -INFO - click on submit button submit
+2022-02-28 00:32:21,238 - selenium1Demo -INFO - Entered username
+2022-02-28 00:32:21,356 - selenium1Demo -INFO - Entered password
+2022-02-28 00:32:21,637 - selenium1Demo -INFO - click on submit button submit
+2022-02-28 11:23:57,668 - selenium1Demo -INFO - Entered username
+2022-02-28 11:23:58,141 - selenium1Demo -INFO - Entered password
+2022-02-28 11:23:58,439 - selenium1Demo -INFO - click on submit button submit
+2022-02-28 12:21:01,258 - selenium1Demo -INFO - Entered username
+2022-02-28 12:21:01,418 - selenium1Demo -INFO - Entered password
+2022-02-28 12:21:01,819 - selenium1Demo -INFO - click on submit button submit
+2022-02-28 12:24:15,001 - selenium1Demo -INFO - URL is opened
+2022-02-28 12:24:15,224 - selenium1Demo -INFO - Entered username
+2022-02-28 12:24:15,364 - selenium1Demo -INFO - Entered password
+2022-02-28 12:24:16,096 - selenium1Demo -INFO - click on submit button submit
+2022-02-28 12:28:47,608 - selenium1Demo -INFO - Entered username
+2022-02-28 12:28:47,829 - selenium1Demo -INFO - Entered password
+2022-02-28 12:28:48,115 - selenium1Demo -INFO - click on submit button submit
+2022-02-28 12:31:59,627 - selenium1Demo -INFO - Entered username
+2022-02-28 12:31:59,916 - selenium1Demo -INFO - Entered password
+2022-02-28 12:32:00,971 - selenium1Demo -INFO - click on submit button submit
+2022-02-28 12:32:04,120 - selenium1Demo -INFO - providing customer details.... 
+2022-02-28 12:42:06,838 - selenium1Demo -INFO - Entered username
+2022-02-28 12:42:07,009 - selenium1Demo -INFO - Entered password
+2022-02-28 12:42:08,216 - selenium1Demo -INFO - click on submit button submit
+2022-02-28 12:42:11,483 - selenium1Demo -INFO - providing customer details.... 
+2022-02-28 12:42:20,219 - selenium1Demo -INFO - validation started...
+2022-02-28 12:42:20,251 - selenium1Demo -INFO - test case passed
+2022-02-28 13:00:22,150 - selenium1Demo -INFO - Entered username
+2022-02-28 13:00:22,439 - selenium1Demo -INFO - Entered password
+2022-02-28 13:00:23,652 - selenium1Demo -INFO - click on submit button submit
+2022-02-28 13:00:26,801 - selenium1Demo -INFO - providing customer details.... 
+2022-02-28 13:00:35,058 - selenium1Demo -INFO - validation started...
+2022-02-28 13:03:44,998 - selenium1Demo -INFO - URL is opened
+2022-02-28 13:03:45,204 - selenium1Demo -INFO - Entered username
+2022-02-28 13:03:45,342 - selenium1Demo -INFO - Entered password
+2022-02-28 13:03:46,339 - selenium1Demo -INFO - click on submit button submit
+2022-02-28 13:03:46,347 - selenium1Demo -INFO - Login test passed
+2022-02-28 13:03:52,799 - selenium1Demo -INFO - user name provided
+2022-02-28 13:03:52,928 - selenium1Demo -INFO - password provided
+2022-02-28 13:03:54,082 - selenium1Demo -INFO - submit button is clicked
+2022-02-28 13:03:57,129 - selenium1Demo -INFO - Login passed
+2022-02-28 13:04:01,799 - selenium1Demo -INFO - user name provided
+2022-02-28 13:04:01,908 - selenium1Demo -INFO - password provided
+2022-02-28 13:04:02,963 - selenium1Demo -INFO - submit button is clicked
+2022-02-28 13:04:05,980 - selenium1Demo -INFO - Login passed
+2022-02-28 13:04:10,324 - selenium1Demo -INFO - user name provided
+2022-02-28 13:04:10,500 - selenium1Demo -INFO - password provided
+2022-02-28 13:04:11,301 - selenium1Demo -INFO - submit button is clicked
+2022-02-28 13:04:14,322 - selenium1Demo -INFO - Login passed
+2022-02-28 13:04:18,779 - selenium1Demo -INFO - user name provided
+2022-02-28 13:04:18,937 - selenium1Demo -INFO - password provided
+2022-02-28 13:04:19,770 - selenium1Demo -INFO - submit button is clicked
+2022-02-28 13:04:22,793 - selenium1Demo -INFO - Login passed
+2022-02-28 13:04:27,215 - selenium1Demo -INFO - user name provided
+2022-02-28 13:04:27,491 - selenium1Demo -INFO - password provided
+2022-02-28 13:04:28,708 - selenium1Demo -INFO - submit button is clicked
+2022-02-28 13:04:31,736 - selenium1Demo -INFO - Login passed
+2022-02-28 13:04:40,583 - selenium1Demo -INFO - Entered username
+2022-02-28 13:04:40,726 - selenium1Demo -INFO - Entered password
+2022-02-28 13:04:41,774 - selenium1Demo -INFO - click on submit button submit
+2022-02-28 13:04:44,947 - selenium1Demo -INFO - providing customer details.... 
+2022-02-28 13:04:54,848 - selenium1Demo -INFO - validation started...
+2022-03-04 21:09:29,823 - selenium1Demo -INFO - URL is opened
+2022-03-04 21:09:30,087 - selenium1Demo -INFO - Entered username
+2022-03-04 21:09:30,310 - selenium1Demo -INFO - Entered password
+2022-03-04 21:09:31,945 - selenium1Demo -INFO - click on submit button submit
+2022-03-04 21:09:31,958 - selenium1Demo -INFO - Login test passed
+2022-03-04 21:09:39,194 - selenium1Demo -INFO - user name provided
+2022-03-04 21:09:44,309 - selenium1Demo -INFO - Entered username
+2022-03-04 21:09:44,778 - selenium1Demo -INFO - Entered password

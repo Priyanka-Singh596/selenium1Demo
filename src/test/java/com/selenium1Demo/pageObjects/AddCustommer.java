@@ -23,10 +23,10 @@ public class AddCustommer {
 	@FindBy(how=How.NAME,using="name")
 	WebElement textCustomerName;
 	
-	@FindBy(css ="input[name='radl'][value='m']")
+	@FindBy(how=How.XPATH,using="//input[@value='m']")
 	WebElement selectGenderMale;
 	
-	@FindBy(css ="input[name='radl'][value='f']")
+	@FindBy(how=How.XPATH,using="//input[@value='f']")
 	WebElement selectGenderFemale;
 	
 	@FindBy(how=How.ID,using="dob")
